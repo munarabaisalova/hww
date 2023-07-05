@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    width: auto;
+   
+}
+.text {
+    text-align: center;
+    color:black;
+    font-size: 50px;
+   margin-top: 100px;
+}
+
+.divs {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    background: gold;
+    
+}
+.divs1 {
+   position: relative;
+    width: 70px;
+    height: 70px;
+    background:darkseagreen;
+    border-radius: 4px;
+   left: 90px;
+   top: 30px;
+   
+}
+.ions {
+    position: relative;
+    
+    color:rgb(75, 75, 116);
+    font-size: 100px;
+   
+    
+}
+.text2 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+padding-top: 35px;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    border: solid #1B213A;
+    border-radius:2px;
+    background: none;
+    margin: 95px;
+    color: #1B213A;
+
+}
+.btn:hover {
+    background: #1B213A;
+    color: aliceblue;
+    box-shadow: 0px 0px 10px 10px darkcyan;
+}
